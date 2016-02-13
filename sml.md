@@ -2,5 +2,6 @@
 
  - Heat bun
  - Microwave hot god
- - Aadd ketchup
+ - Add ketchup
+ - Add Mayo
  - Enjoy
