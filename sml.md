@@ -12,4 +12,4 @@
  +
   +
   +
- Ask for their [GitHub](www.google.com) profile!
+ Ask for their [GitHub](http://www.google.com) profile!
